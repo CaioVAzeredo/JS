@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <script>
+        let repeticao = 0
+        let media1 = 0
+        let media2 = 0
+        let soma1 = 0
+        let soma2 = 0
+        alert("digite um número negativo ou uma informação que nao seja um número para sair")
+        do {
+            let preco = Number(prompt("Insira o preco: "))
+            let codigo = Number(prompt("insira o código do produto: "))
+
+            let nPreco = (preco * 0.2) + preco
+
+            alert(`antigo preço: ${preco}. Novo preco: ${nPreco}`)
+
+            
+            if (preco < 0 || isNaN(preco)) {
+                const sair = confirm("confirmar saida?")
+                if(sair){
+                    break
+                }else{
+                    continue
+                }
+                break
+            }
+
+            
+            
+
+            soma1 = soma1 + preco
+            soma2 = soma2 + nPreco
+
+            repeticao += + 1
+
+            
+        } while (true)
+
+        alert(`Sem com 20%: ${(media1 = soma1 / repeticao).toFixed(2)}, Com os 20%: ${(media2 = soma2 / repeticao).toFixed(2)}`)
+        
+    </script>
+</body>
+
+</html>

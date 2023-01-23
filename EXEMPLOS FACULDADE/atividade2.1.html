@@ -1,0 +1,35 @@
+<meta charset="UTF-8">
+<script>
+
+    let num1 = ""
+    let num2 = ""
+    let num3 = ""
+
+    let media = ""
+
+    let aprovado = Number("")
+    let reprovado = Number("")
+
+    
+    for (let i = 3; i > 0; i--) {
+
+        num1 = Number(prompt("Insira a PRIMEIRA nota: "))
+        num2 = Number(prompt("insira a SEGUNDA nota: "))
+        num3 = Number(prompt("insira a TERCEIRA nota: "))
+        media = (num1 + num2 + num3) / 3
+        if (media > 7) {
+            aprovado = aprovado + 1
+            alert(`APROVADO`)
+        } else {
+            reprovado = reprovado + 1
+            alert(`REPROVADO`)
+        }
+    }
+
+    alert(`aprovados: ${aprovado}. reprovado: ${reprovado}`)
+
+
+
+
+
+</script>
