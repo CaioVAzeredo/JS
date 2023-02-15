@@ -109,3 +109,13 @@ button:active {
     /*background-color: rgb(21, 223, 3);
     color: rgb(1, 71, 1);*/
 }
+.bom{
+    background: rgb(133, 245, 139);
+    color: rgb(0, 53, 11);
+    padding: 10px 20px;
+}
+.mal{
+    background: rgb(245, 133, 133);
+    color: rgb(53, 0, 0);
+    padding: 10px 20px;
+}
