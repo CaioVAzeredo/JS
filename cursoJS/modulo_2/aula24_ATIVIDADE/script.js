@@ -5,6 +5,18 @@ function calculoIMC() {
     function Calculo(e) {
         const peso = Number(document.querySelector("#ipeso").value)
         const alt = Number(document.querySelector("#ialtura").value)
+       
+        if (peso < 10 || peso > 595) {
+            resp.innerText = `PESO INVÁLIDO`
+            resp.style.color = "#500000"
+            resp.style.background = "#ff0000"
+        }
+        if (alt < 0.54 || alt > 2.51) {
+            resp.innerText = `ALTURA INVÁLIDA`
+            resp.style.color = "#500000"
+            resp.style.background = "#ff0000"
+        }
+
         let imc = peso / (alt * alt)
 
         if (imc < 18.5) {
@@ -36,7 +48,7 @@ function calculoIMC() {
         frm.ipeso.value = ''
         frm.ialtura.value = ''
         frm.ipeso.focus()
-        
+
         e.preventDefault()
 
     }
