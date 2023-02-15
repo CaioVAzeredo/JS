@@ -50,7 +50,6 @@ function calculoIMC() {
         frm.ipeso.focus()
 
         e.preventDefault()
-
     }
     frm.addEventListener('submit', Calculo)
 }
