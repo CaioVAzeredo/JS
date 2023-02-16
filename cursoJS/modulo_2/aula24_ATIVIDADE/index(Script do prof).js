@@ -23,7 +23,6 @@ frm.addEventListener('submit', function (e) {
     setResultado(msg, true)
 
 })
-
 function condicao(imc) {
     const nivel = ['Abaixo do peso', 'Peso normal', 'Sobrepeso', 'Obesidade grau ', 'Obesidade grau 2', 'Obesidade grau 3']
 
@@ -47,19 +46,10 @@ function condicao(imc) {
     }
 
 }
-
-
-
-
 function getImc(peso, alt) {
     let imc = peso / (alt * alt)
     return imc.toFixed(2)
 }
-
-
-
-
-
 function setResultado(msg, isValid) {
     const resultado = document.querySelector('#resp')
     resultado.innerHTML = ''
@@ -68,20 +58,15 @@ function setResultado(msg, isValid) {
     resultado.appendChild(p) //inserir elemento dentro de resultado. Ficaria: <div><p></p></div>
 
     if(isValid){
-        p.classList.add('bom')
+        p.classList.add('bom')//adicionar class na tag
     }else{
-        p.classList.add('mal')
+        p.classList.add('mal')//adicionar class na tag
     }
     p.innerHTML = msg;
     
     frm.ipeso.focus()
 
 }
-
-
-
-
-
 function criaP() {
     const p = document.createElement('p') //elemento que eu quero criar, nesse caso um <p>
     /* p.classList.add('pResultado') //adicionar class na tag*/
