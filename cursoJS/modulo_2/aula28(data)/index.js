@@ -1,4 +1,5 @@
 const data1 = new Date('2023-02-16 10:40:34') // 
+
 console.log('Dia', data1.getDate()) // dia 0 - dom 6 - sab
 console.log('Mes', data1.getMonth() +1) // mes 0-janeiro 13-dezembro
 console.log('Ano', data1.getFullYear())

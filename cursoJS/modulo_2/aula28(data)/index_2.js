@@ -1,5 +1,4 @@
-const data = new Date()
-const dataBr = formataData(data)
+const data = new Date() 
 
 function formataData(data) {
     const dia = zeroAEsquerda(data.getDate())
@@ -20,4 +19,4 @@ function zeroAEsquerda(num) {
     return num
 }
 
-console.log(dataBr)
+console.log(formataData(data))
