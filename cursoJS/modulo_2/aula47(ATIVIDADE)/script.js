@@ -3,7 +3,7 @@ function relogio() {
     let timer
     let segundos = 0
     document.addEventListener('click', (e) => {
-        const el = e.target
+        const el = e.target //e.target mostra o local onde eu estou clicando na página 
 
         if (el.classList.contains('iniciar')) {
             iniciaRelogio() //CHAMANDO A FUNÇÃO PARA INICIAR O TIMER
@@ -37,7 +37,6 @@ function relogio() {
     }
     function criarHoraDosSegundos(segundos) {
         let data = new Date(segundos * 1000) //PEGANDO OS SEGUNDOS 
-
         return data.toLocaleTimeString('pt-BR', { //MANIPULANDO O TEMPO PARA OS SEGUNDOS E RETORNAR NA FUNÇÃO
             hour12: false,
             timeZone: 'UTC'
