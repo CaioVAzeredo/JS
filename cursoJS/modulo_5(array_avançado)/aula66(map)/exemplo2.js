@@ -8,16 +8,19 @@ const pessoas = [
 ]
 
 const ReturnString = pessoas.map(nome => {
-    return nome.nome 
+    return nome.nome
 })
 console.log(ReturnString)
 
-const idade = pessoas.map(valor => ({ idade: valor.idade }))
+const idade = pessoas.map(valor => ({
+    idade: valor.idade
+})
+)
 console.log(idade)
 
-const comIds = pessoas.map((obj, indice) => {
-    obj.id = indice
-    return obj
+const comIds = pessoas.map((novo, indice) => {
+    novo.id = indice
+    return novo
 
 })
 console.log(comIds)
