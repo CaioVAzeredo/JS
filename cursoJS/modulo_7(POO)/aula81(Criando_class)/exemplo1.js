@@ -11,5 +11,6 @@ class Pessoa {
 }
 const p1 = new Pessoa('Caio', 'Viana')
 
+p1.falar()
 
 
