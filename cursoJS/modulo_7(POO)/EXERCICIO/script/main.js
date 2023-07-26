@@ -14,16 +14,19 @@ class ValidaFormulario {
     }
     camposSaoValidos() {
         let valid = true
-        for(let campo of this.frm.querySelectorAll('.validar')){
-           const label = campo.previousElementSibling.innerHTML //.previousElementSibling pega o elemento anterior (o principal nesse caso é o input e o anterior é o label)
-            if(!campo.value){
-                this.criaErro(campo, `campo ${label} não pode estar em branco`)
+        for (let errorText of this.frm.querySelectorAll('.error-text')) {
+            errorText.remove()
+        }
+        for (let campo of this.frm.querySelectorAll('.validar')) {
+            const label = campo.previousElementSibling.innerHTML //.previousElementSibling pega o elemento anterior (o principal nesse caso é o input e o anterior é o label)
+            if (!campo.value) {
+                this.criaErro(campo, `Campo ${label} não pode estar em branco`)
                 valid = false
             }
         }
     }
 
-    criaErro(campo, msg){
+    criaErro(campo, msg) {
         const div = document.createElement('div')
         div.innerHTML = msg
         div.classList.add('error-text')
