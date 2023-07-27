@@ -44,7 +44,7 @@ class ValidaCPF {
     }
   }
   
-  let validacpf = new ValidaCPF('070.987.720-03');
+  /* let validacpf = new ValidaCPF('070.987.720-03');
   // validacpf = new ValidaCPF('999.999.999-99');
   
   if (validacpf.valida()) {
@@ -52,4 +52,4 @@ class ValidaCPF {
   } else {
     console.log('CPF inválido');
   }
-  
+   */
