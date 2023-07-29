@@ -38,7 +38,7 @@ function esperaAi(msg, tempo) {
 
 async function executa() {
     try {
-        const fase1 = await esperaAi('Fase 1', rand()) //await espera a execução para poder ser feito o restante do código
+        const fase1 = await esperaAi('Fase 1', rand()) //await espera a execução para poder ser feito o restante do código, em ele, fica pendente
         console.log(fase1)
 
         const fase2 = await esperaAi(0, rand())
