@@ -1,0 +1,369 @@
+[33mcommit 5a1725cbe193f48ed95cdf9479e746776196d2c9[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Caio Viana de Azeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Mon Aug 7 11:35:22 2023 -0300
+
+    início do backend
+
+[33mcommit ce870eaef6ca6223d8338ee6df5620f28124ab81[m
+Author: Caio Viana de Azeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Thu Aug 3 15:14:28 2023 -0300
+
+    atividade em andamento
+
+[33mcommit 02170ec3d23a748e77d1d1a66289ba532dc23548[m
+Author: Caio Viana de Azeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Thu Aug 3 10:05:38 2023 -0300
+
+    atividade feita
+
+[33mcommit 4d15b2ed121f1b210c359a9d299f6052a4e6d22d[m
+Author: Caio Viana de Azeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Wed Aug 2 12:21:03 2023 -0300
+
+    gerador de cpf feito
+
+[33mcommit fbb47950cf4266aac001fd7972efdb2833378fcb[m
+Author: Caio Viana de Azeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Tue Aug 1 11:18:11 2023 -0300
+
+    webpack
+
+[33mcommit cac33eb696a9b02d7f98fb30e49d4e2b8614fe2a[m
+Author: Caio Viana de Azeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Sat Jul 29 10:52:43 2023 -0300
+
+    modulo finalizado
+
+[33mcommit 12bb6cc5150309c0363b564b3ef820fcfbea90fd[m
+Merge: d4b3c6c 7b23043
+Author: Caio Viana de Azeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Sat Jul 29 09:19:42 2023 -0300
+
+    Merge branch 'main' of https://github.com/CaioVAzeredo/JS
+
+[33mcommit d4b3c6cba22cf7ada040914aaf80dd28732dd555[m
+Author: Caio Viana de Azeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Sat Jul 29 09:19:39 2023 -0300
+
+    atividade feita
+
+[33mcommit 7b23043f8a7b632eff8bce7dad441a1c7cd316fe[m
+Author: CaioVAzeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Fri Jul 28 15:50:39 2023 -0300
+
+    fetch API
+
+[33mcommit 2c32850f4eff43c909b09b0a4b832a7e2c79d86e[m
+Author: Caio Viana de Azeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Wed Jul 26 21:23:47 2023 -0300
+
+    atividade feita
+
+[33mcommit 8d629d672e49ac37c5f40a1ce6e1cec996b40cf0[m
+Author: CaioVAzeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Wed Jul 26 14:45:06 2023 -0300
+
+    continuação atividade
+
+[33mcommit 7c7390391c033c32b629a3ab73241c4b5417a11e[m
+Author: Caio Viana de Azeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Wed Jul 26 11:38:59 2023 -0300
+
+    atividade em andamento
+
+[33mcommit f2b34bc9398f0e7f1293cd83ee1345dffa9586b3[m
+Author: Caio Viana de Azeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Tue Jul 25 16:45:35 2023 -0300
+
+    atividade feita
+
+[33mcommit fca2090eb89abadd1c83c0119e8f055d8e0b4a97[m
+Author: Caio Viana de Azeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Thu Jul 20 22:06:59 2023 -0300
+
+    finalizando estudo sobre class
+
+[33mcommit 2b92f383f4131dd6b4ef343c75ed02a02cca58fd[m
+Author: Caio Viana de Azeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Thu Jul 20 18:14:49 2023 -0300
+
+    seção finalizada
+
+[33mcommit 5ed6af31db4e5561b9e535a8c332cefcb9a6d702[m
+Author: Caio Viana de Azeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Thu Jul 20 15:37:12 2023 -0300
+
+    atividade feita
+
+[33mcommit 6c4f516f926419429010c29b6aeac9d4e76a9b97[m
+Author: Caio Viana de Azeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Wed Jul 19 17:49:31 2023 -0300
+
+    feito atividade de validação de cpf
+
+[33mcommit a9a290905275a65391db4faeb235ee8fc5213053[m
+Author: Caio Viana de Azeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Tue Jul 18 19:53:32 2023 -0300
+
+    feito o modulo de herança
+
+[33mcommit 8261d1b19e2dd4d5f2e64842949c679263d872c2[m
+Author: Caio Viana de Azeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Mon Jul 17 15:56:05 2023 -0300
+
+    finalizado o modulo
+
+[33mcommit a65d27004d41778f95972bcaa0fdeb885533d137[m
+Author: CaioVAzeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Mon Jul 17 13:17:53 2023 -0300
+
+    exemplo feito
+
+[33mcommit b451b7f0b65cd0147c301950b52478f83de4c55c[m
+Author: Caio Viana de Azeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Thu Jul 13 16:01:32 2023 -0300
+
+    criando o novo modulo
+
+[33mcommit c74fa2e3f38eb90815654453ae2e6e2e94c8fa08[m
+Author: Caio Viana de Azeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Thu Jul 13 12:10:46 2023 -0300
+
+    etapa funções finalizada
+
+[33mcommit 28dac7c637759be80e58bd979cc378f58a847889[m
+Author: Caio Viana de Azeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Wed Jul 12 21:43:18 2023 -0300
+
+    função construtora
+
+[33mcommit 760aebe973c9eada85d6e79f738068c87dc5d554[m
+Author: Caio Viana de Azeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Wed Jul 12 18:10:45 2023 -0300
+
+    atividade calculadora feita
+
+[33mcommit 73494d566434b9f12066217a640702e5dcb180c9[m
+Author: Caio Viana de Azeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Tue Jul 11 18:17:13 2023 -0300
+
+    get and set in js
+
+[33mcommit f3e12167e8d4b059cc7f9b72030d828d92ce77d1[m
+Author: Caio Viana de Azeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Mon Jul 10 18:57:07 2023 -0300
+
+    exercicio js feito
+
+[33mcommit d9eb4992123561a543751f58b7bf1d9e4eafcc50[m
+Merge: 4fefb6b 6a3a146
+Author: Caio Viana de Azeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Wed Jun 21 20:14:45 2023 -0300
+
+    Merge branch 'main' of https://github.com/CaioVAzeredo/JS
+
+[33mcommit 4fefb6be7350b902b585f1ca8bd5b9de59213f91[m
+Author: Caio Viana de Azeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Wed Jun 21 20:12:22 2023 -0300
+
+    aula 51 feita
+
+[33mcommit 053e775d3c0e6d9b306e94ecfa831b14cb391c95[m
+Author: Caio Viana de Azeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Mon Jun 19 19:13:12 2023 -0300
+
+    atividade feita
+
+[33mcommit 6a3a146ab89d76b2a4c178ad37a79631dc753937[m
+Author: CaioVAzeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Fri Jun 16 17:51:19 2023 -0300
+
+    começo da atividade
+
+[33mcommit c5da8640042ef6311ad05b7fdb3dca989de4f848[m
+Author: Caio Viana de Azeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Thu Jun 15 21:14:47 2023 -0300
+
+    adicionado um comentario
+
+[33mcommit 4ed0af810311d8317727f7c72a0e7bea37f9a879[m
+Author: CaioVAzeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Fri Mar 10 16:36:34 2023 -0300
+
+    menu
+    
+    feito o menu para telas pequenas com sucesso
+
+[33mcommit 9e8d339b264c33c92a5b61eae79cf20d1577452d[m
+Author: CaioVAzeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Thu Mar 2 23:13:44 2023 -0300
+
+    AULA FEITA
+
+[33mcommit a9c0bd71d427888f3f32f9d8987d55ecb6ea2976[m
+Author: CaioVAzeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Fri Feb 24 17:28:03 2023 -0300
+
+    ATIVIDADE TIMER FEITA
+
+[33mcommit 66d07e889f3ff8ceb1a489f59710aedf1c64981d[m
+Author: CaioVAzeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Fri Feb 24 10:00:31 2023 -0300
+
+    atividades feitas
+
+[33mcommit 9cb80f2998e2825dcd96abafb1a0d13c08fcb547[m
+Author: CaioVAzeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Wed Feb 22 18:54:11 2023 -0300
+
+    atividade feita
+
+[33mcommit bcbbb855554f504a140fc52160b826f3974a3949[m
+Author: CaioVAzeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Wed Feb 22 18:35:08 2023 -0300
+
+    for in
+
+[33mcommit 263e07bb2a5c0a1f10f87d7d9093ac208737b5b9[m
+Author: CaioVAzeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Tue Feb 21 17:51:52 2023 -0300
+
+    ATIVIDADE SOBRE ARRAY E OBJETOS
+
+[33mcommit 9d1d72c13fe1acae545c233ef15ad94d9d27fabe[m
+Author: CaioVAzeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Sat Feb 18 14:29:01 2023 -0300
+
+    for
+
+[33mcommit 6155cbfaf3212b19e4c32db613fc496ccf429fb9[m
+Author: CaioVAzeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Fri Feb 17 12:21:11 2023 -0300
+
+    atribuiçao com array e objetos
+
+[33mcommit adf105a8c95ff6609784377b40f377cfa74fb8e2[m
+Author: CaioVAzeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Thu Feb 16 20:32:02 2023 -0300
+
+    alterações feitas na atividade sobre data
+
+[33mcommit fdac72699704ee29423a90032994610fb31a15c8[m
+Author: CaioVAzeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Thu Feb 16 15:44:07 2023 -0300
+
+    atividade data feito
+
+[33mcommit d71372d29696bc82c4bb7cac7ef103dad71c5903[m
+Author: CaioVAzeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Wed Feb 15 19:24:48 2023 -0300
+
+    atividade feita
+
+[33mcommit e287abec5580365b260f5bc803252b590e5141ef[m
+Author: CaioVAzeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Wed Feb 15 12:15:33 2023 -0300
+
+    feito alterações no cóodigo
+
+[33mcommit 03b9ee8265251df06c043e8b04cd8436648a9d43[m
+Author: CaioVAzeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Wed Feb 15 10:19:38 2023 -0300
+
+    feito alterações
+
+[33mcommit 7734a588ce5db592ff4e0ceee21bcceca13d75d0[m
+Author: CaioVAzeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Tue Feb 14 22:58:19 2023 -0300
+
+    atividade feita
+
+[33mcommit 6676acbd08b0414122e85c017b62fe012b2352c0[m
+Author: CaioVAzeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Tue Feb 14 20:02:41 2023 -0300
+
+    feito alterações
+
+[33mcommit 981595ba3c0ba6cf66b53d61c0f509ccfcd45031[m
+Author: CaioVAzeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Tue Feb 14 12:40:10 2023 -0300
+
+    introdução a logica e feito o site modelo
+
+[33mcommit 138325347730b746c9a5f8cbda8dca7a958eddb0[m
+Author: CaioVAzeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Sat Feb 11 11:14:47 2023 -0300
+
+    unidade concluida
+
+[33mcommit 52e377eeeb5a261fd6a25d9c1f7aa8bfed8a28af[m
+Author: CaioVAzeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Fri Feb 10 18:27:35 2023 -0300
+
+    atividade js em andamento
+
+[33mcommit 10f59251daf87ef8d0e6d9953511d72756d3f2b3[m
+Author: CaioVAzeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Thu Feb 9 14:26:28 2023 -0300
+
+    functions e arrays aulas
+
+[33mcommit ce5949f6704e86937ca1069624587a80e6138e3f[m
+Author: CaioVAzeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Tue Feb 7 12:44:17 2023 -0300
+
+    aula e atividade sobre numbers e Math
+
+[33mcommit e2970752ea5bb14dcc451ec681ba65c2c57e84a3[m
+Author: CaioVAzeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Mon Feb 6 19:38:24 2023 -0300
+
+    mensagem feita
+
+[33mcommit e18fe98f44ba236944cf019544de2eb3dae907ec[m
+Author: CaioVAzeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Fri Feb 3 20:25:41 2023 -0300
+
+    atividade strings feita
+
+[33mcommit a52ac3d25e2a870444eb258b490e807e4c8562f3[m
+Author: CaioVAzeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Thu Feb 2 13:24:40 2023 -0300
+
+    atividades e conteúdos atualizados
+
+[33mcommit 2112677d5bc1f47c8ed2d5021ee28219a4082dc0[m
+Author: CaioVAzeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Wed Feb 1 20:23:23 2023 -0300
+
+    aula006 feita
+
+[33mcommit c50dedfde450f962b7983ca5b380e98a5518b7d1[m
+Author: CaioVAzeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Thu Jan 26 21:54:55 2023 -0300
+
+    summary
+
+[33mcommit bcbc68d630f443d79a409d6171b2a5bde5ff70b7[m
+Author: CaioVAzeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Thu Jan 26 21:54:37 2023 -0300
+
+    node save
+
+[33mcommit 7caa3a574aaeb6fb260ded7e8b0463204273698d[m
+Author: CaioVAzeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Thu Jan 26 21:52:44 2023 -0300
+
+    atividades concluidas
+
+[33mcommit 6f6ed0140e297b795bd34181ae75f24d820edad4[m
+Author: CaioVAzeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Mon Jan 23 12:00:12 2023 -0300
+
+    atualização
+
+[33mcommit 18d95413b30186975e773e7bf70027ccbe55cb6d[m
+Author: CaioVAzeredo <122998245+CaioVAzeredo@users.noreply.github.com>
+Date:   Wed Jan 18 17:29:17 2023 -0300
+
+    Initial commit
